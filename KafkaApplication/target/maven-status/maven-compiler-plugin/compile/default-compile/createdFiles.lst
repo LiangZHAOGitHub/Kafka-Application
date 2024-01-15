@@ -1,0 +1,6 @@
+com/example/KafkaApplication/KafkaApplication.class
+com/example/KafkaApplication/config/KafkaConsomerConfig.class
+com/example/KafkaApplication/service/send/KafkaMsgPublisher.class
+com/example/KafkaApplication/config/KafkaProducerConfig.class
+com/example/KafkaApplication/service/listen/KafkaMsgListener.class
+com/example/KafkaApplication/config/KafkaTopicConfig.class
